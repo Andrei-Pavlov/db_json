@@ -1,29 +1,29 @@
-{"services":[
+{"Информация о профессии":[
 
   {
     "image": "https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg",
-    "title": "Software Development",
-    "decription": "Tailored software development services for various platforms including web, mobile, and desktop applications."
+    "title": "Описание профессии",
+    "decription": "Специалист по ИТ-системам работает самостоятельно в заданной сфере деятельности, соблюдая процедурные правила и лучшие практики."
   },
   {
     "image": "https://www.i2k2.com/wp-content/uploads/2017/03/Free-Cloud-Hosting-Solutions-for-Startups-Microsoft-Azure.png",
-    "title": "Cloud Services and Hosting Solutions",
-    "decription": "Robust cloud services tailored to your needs, from selecting the right cloud solution to data migration and security implementation."
+    "title": "Программа обучения",
+    "decription": "выполняет основные обязанности специалиста по ИТ-системам: развитие ИТ-инфраструктуры, управление системой, внедрение решений, подготовка документации, обеспечение поддержки пользователей, обеспечение поддержки изменений, решение стандартных ИТ-проблем, предоставление услуг и обеспечение информационной безопасности. поддерживать; основывает свою деятельность на профессиональной этике, законодательстве, ценностях и интересах организации, разумно и экономно использует ресурсы организации; информирует руководителя и другие стороны о неэтичной и незаконной деятельности; ведет себя экологически сознательно, основываясь на принципах энергосбережения и управления отходами; относится к коллегам с уважением и вниманием и, если возможно, вмешивается в ситуации, когда имеет место неуважительное или дискриминационное поведение; оценивает целесообразность делегированных ему задач и информирует связанные лица в ситуациях, когда задачи превышают его компетенцию."
   },
   {
     "image" : "https://consultdts.com/wp-content/uploads/2022/07/cyber-security-solutions.jpg",
-    "title": "Cybersecurity Solutions",
-    "decription": "Proactive cybersecurity services including vulnerability assessments, threat monitoring, and security system implementation."
+    "title": "Профессиональные навыки",
+    "decription": "Специалист по ИТ-системам может работать в службе поддержки клиентов, специалистом по ИТ-поддержке, специалистом по мониторингу, системным администратором и т. д."
   },
   {
     "image" : "https://www.tatvasoft.com/outsourcing/wp-content/uploads/2023/06/Types-of-Web-Development-for-your-Project.jpg",
-    "title": "web Development",
-    "decription":"Dynamic web development services for creating responsive websites and e-commerce platforms."
+    "title": "личностные характеристики",
+    "decription":"Специалист по ИТ-системам может адаптировать свой стиль общения к различным ситуациям и людям. Четко выражает свое мнение, не скрывает информацию и умеет выделить самые важные точки зрения. Может контролировать свои эмоции даже в сложных ситуациях. Его работа требует воли и умения работать в команде."
   },
   {
     "image": "https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg",
-    "title": "Data Analytics",
-    "decription":"Data-driven insights to drive strategic decision-making."
+    "title": "Условия для поступления для обучения",
+    "decription":"Основное образование"
   }
 ]
 }
